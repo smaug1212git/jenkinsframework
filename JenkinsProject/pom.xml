@@ -6,7 +6,7 @@
    <profiles>
 	  
 	   <profile>
-		  <id>JST</id>
+		  <id>ST</id>
 		  	<build>
   				<plugins>
      	 			<plugin>
@@ -26,7 +26,7 @@
 	  </profile>
 	  
 	   <profile>
-		  <id>JRT</id>
+		  <id>RT</id>
 		  	<build>
   				<plugins>
      	 			<plugin>
